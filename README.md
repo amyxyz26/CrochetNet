@@ -124,3 +124,6 @@ How to Use This Web Application
     • Manifold Geometry: If you keep applying `inc`, the diagram becomes very crowded (representing exponential growth in a hyperbolic space); if you keep applying `dec`, the diagram rapidly narrows or even breaks apart (representing a closed space).
     
 You can try inputting a crazy pattern, such as three consecutive rows of `all inc`, to see how the network structure explodes!
+
+http://192.168.68.57:8501/
+
